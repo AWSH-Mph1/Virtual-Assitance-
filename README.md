@@ -1,7 +1,8 @@
 # Virtual-Assistance-
 AWS Hackthaon
 
-Project Idea
+Project Idea:
+The entire airline booking experience so far has been web driven and lacks personalization. The ease of taking help from an AI would make the booking experience much more pleasurable and efficient. We also know about possible flight disruptions based on past data but they are seldom provided to customers during a generic web booking. Knowing the customer can help provide personalized suggestions and avoid issues like having a passenger book a flight that requires transit visa. 
 
 
 Business Problems Solved:
