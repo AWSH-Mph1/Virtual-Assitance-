@@ -23,6 +23,9 @@ mvn spring-boot:run
 
 URLs
 URL	Method	Remarks
-http://localhost:5000/getavaliblefightInfo/{source}/{destination}	GET	:- getavaliblefightInfo
-http://localhost:5000/api/file/upload?uploadfile               		GET	   peration :- uploadfile
-http://localhost:5000/getbyId/{id}	GET	:- getbyId
+http://localhost:5000/getavaliblefightInfo/{source}/{destination}	GET	getavaliblefightInfo
+		
+http://localhost:5000/api/file/upload?uploadfile               	GET	uploadfile
+		
+http://localhost:5000/getbyId/{id}	GET	getbyId
+
